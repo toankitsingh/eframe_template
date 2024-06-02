@@ -1,7 +1,7 @@
 [package]
 name = "eframe_template"
 version = "0.1.0"
-authors = ["Ankit Singhg <toankit.sngh@gmail.com>, copied from Emil Ernerfeldt"]
+authors = ["Ankit Singh <toankit.singh@gmail.com>, copied from Emil Ernerfeldt"]
 edition = "2021"
 include = ["LICENSE-APACHE", "LICENSE-MIT", "**/*.rs", "Cargo.toml"]
 rust-version = "1.76"
